@@ -2,7 +2,7 @@
 layout: post
 title:  "2019年 华总杯报名 队伍成员"
 date:   2019-10-25 22:09:55 +0200
-categories: JatteBra badminton
+categories: JätteBra badminton 华总杯
 ---
 领队： 初凯
 
